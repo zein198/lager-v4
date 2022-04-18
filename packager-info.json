@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": null,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://p4-gsz.anonymous.lager.exp.direct",
+  "packagerNgrokUrl": "https://p4-gsz.anonymous.lager.exp.direct",
+  "ngrokPid": 10964,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
